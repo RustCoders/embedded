@@ -16,3 +16,5 @@ To reflash to the microbit, use:
 cargo embed --features v2 --target thumbv7em-none-eabihf
 ```
 
+cargo embed --features v2 --target thumbv7em-none-eabihf
+
